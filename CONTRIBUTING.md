@@ -18,3 +18,6 @@ Contributions are always welcome!
 ## What if the changes are inconsistent?
 - Keep pulling from origin/main see below, this way you will be up to date with the latest changes in main branch
 - git pull origin main
+
+## What if you find an error in a solution
+- Submit a pull request so that we can review it and determine if there needs to be a change or not.

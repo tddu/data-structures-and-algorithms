@@ -9,6 +9,27 @@
 
 # Implementation of well known Data Structures and Algorithms
 
+This is a compilation of common data structures and algorithms you may find as well as some common coding problems and user-submitted solutions. 
+
+## Featured
+
+These are the currently implemented data structures and algorithms:
+
+* Arrays
+* 2D Arrays
+* Heap
+* Linked List
+* Stack
+* Queues
+* Binary Search Trees (Including AVL)
+* Hash Table
+* Graphs
+
+
+## To-Do List
+
+* Tries
+
 ## Contributing
 
 🌈 Everyone is welcome!
